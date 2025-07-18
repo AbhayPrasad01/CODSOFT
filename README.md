@@ -1,2 +1,2 @@
 # CODSOFT
-Projects regrding Web Development Internship
+Projects regarding Web Development Internship
